@@ -41,11 +41,46 @@ mysql -u your_user -p < indonesia_banks.sql
 
 ---
 
-## 📬 Kontak / Contact
+## 📬 Contact
 
-- Email: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)  
+- Email: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)
 - GitHub: [kongali1720](https://github.com/kongali1720)
 
+## ☕ Support Me
+
+Support me to stay sane writing scripts at midnight!
+
+👉 [Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99) 👈  
+Support with 💸 so I can buy ☕ and keep being 🔥!
+
+## 📫 Let’s Connect Like Hackers
+
+- 🧙 GitHub: [kongali1720](https://github.com/kongali1720)
+- 💌 Email: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)
+- 🕵️‍♂️ Site: Coming soon — stay curious...
+
+## 💻 INITIATING HUMANITY MODE...
+
+🎯 **Target Locked**: Down Syndrome Warriors  
+🩺 **Status**: In Need of Support  
+❤️ **Response**: Open Your Heart + Click the Link = A New Smile
+
+🧬 They are not different — they were born to teach the world about pure love and extraordinary patience.
+
+👣 Every small step they take = A great miracle.
+
+⚡ Help them go further, in your own way.
+
+<p align="center">
+  <a href="https://mydonation4ds.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/SUPPORT--NOW-%F0%9F%A7%A1-orange?style=for-the-badge&logo=heart" />
+  </a>
+</p>
+
+---
+"Because being a hacker of hearts isn’t just about code… it’s about caring." 🖤
+
+"Code with a smile, but don’t inject SQL while sulking!" 😜
 ---
 
 > _Database ini dibuat oleh Kongali1720 untuk edukasi dan referensi fintech Indonesia._  
